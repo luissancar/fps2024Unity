@@ -4,7 +4,9 @@ using System.Collections.Generic;
 using System.Security.Cryptography;
 using TMPro;
 using UnityEngine;
-
+/// <summary>
+/// 
+/// </summary>
 public class Shot : MonoBehaviour
 {
     public Transform spawnPoint; //punto salida de la bala
